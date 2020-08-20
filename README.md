@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a Technical Architect at Advania - Knowledge Factory, Azure is where my ❤ is.
+I'm a Technical Architect at Advania - Knowledge Factory, Azure is where my ❤ is!
 
 - 🔭 I’m currently working on improving docs.microsoft.com or at least trying to by firing away PRs
 - 🌱 I’m currently learning everything about Azure Virtual WAN
