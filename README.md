@@ -8,5 +8,6 @@ I'm a Technical Architect at Advania - Knowledge Factory, Azure is where my ❤ 
 - 💬 Ask me about Azure, NHL stats or how to grow the best 🥕
 - 📫 How to reach me:
   - 🦅 - [Twitter](https://twitter.com/StefanIvemo)
-  - 🏢 - [LinkedIn](https://www.linkedin.com/in/stefanivemo/)  
-- ⚡ Fun fact: 
+  - 🏢 - [LinkedIn](https://www.linkedin.com/in/stefanivemo/) 
+- 📝 - Trying to [blog](https://www.linkedin.com/in/stefanivemo/) occasionally
+
