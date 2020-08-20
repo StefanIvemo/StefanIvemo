@@ -6,8 +6,9 @@ I'm a Technical Architect at Advania - Knowledge Factory, Azure is where my ❤ 
 - 🌱 I’m currently learning everything about Azure Virtual WAN
 - 🎸 Coding at my best to the tunes of Turbonegro 🤘
 - 💬 Ask me about Azure, NHL stats or how to grow the best 🥕
+- 📝 - Trying to [blog](https://www.linkedin.com/in/stefanivemo/) occasionally
 - 📫 How to reach me:
   - 🦅 - [Twitter](https://twitter.com/StefanIvemo)
   - 🏢 - [LinkedIn](https://www.linkedin.com/in/stefanivemo/) 
-- 📝 - Trying to [blog](https://www.linkedin.com/in/stefanivemo/) occasionally
+
 
