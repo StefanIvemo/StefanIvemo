@@ -10,5 +10,6 @@ I'm a Technical Architect at Advania - Knowledge Factory, Azure is where my ❤ 
 - 📫 How to reach me:
   - 🦅 - [Twitter](https://twitter.com/StefanIvemo)
   - 🏢 - [LinkedIn](https://www.linkedin.com/in/stefanivemo/) 
+-⚡ - Fun fact: I plan to retire from work at the age of 40 to pursue a career as a professional golfer! ⛳
 
 
