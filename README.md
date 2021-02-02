@@ -3,7 +3,7 @@
 I'm a Technical Architect at Advania - Knowledge Factory, Azure is where my ❤ is!
 
 - 🔭 I’m currently working on improving docs.microsoft.com or at least trying to by firing away PRs
-- 🌱 I’m currently learning everything about Azure Virtual WAN
+- 🌱 I’m currently learning everything about Azure Virtual WAN, Azure Firewall and Bicep 💪
 - 🎸 Coding at my best to the tunes of Turbonegro 🤘
 - 💬 Ask me about Azure, NHL stats or how to grow the best 🥕
 - 📝 Trying to [blog](https://blog.ivemo.se) occasionally
