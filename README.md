@@ -6,6 +6,7 @@ Microsoft MVP - Azure | Technical Architect at Advania - Knowledge Factory | Azu
 - ❤  Love Azure, Infrastructure-as-Code (IaC), automation and Bicep 💪
 - 🏗  Creator and maintainer of the [Bicep PowerShell Module](https://github.com/StefanIvemo/BicepPowerShell)
 - 💪 [Bicep](https://github.com/Azure/Bicep) Core Maintainer
+- ☁️ [Västerås Azure User Group](https://vazug.cloud) Founder 
 - 🎸 Coding at my best to the tunes of Turbonegro 🤘
 - 💬 Ask me about Azure☁, sourdough pizza🍕 or how to grow the best carrots🥕
 - 📝 Trying to [blog](https://blog.ivemo.se) occasionally
